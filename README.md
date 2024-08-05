@@ -1,5 +1,9 @@
 # A geoserver docker image
 
+## Archived
+changes have been pulled into the main project. -- CSB 8-05-2024
+
+
 This Dockerfile can be used to create images for all geoserver versions since 2.5.
 
 * Debian based Linux
